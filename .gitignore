@@ -1,0 +1,16 @@
+## NodeSDR Modules
+app/modules
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Node ###
+node_modules
+
+### Code coverage ###
+.nyc_output
+
+### VSCode
+.vscode
