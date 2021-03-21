@@ -1,7 +1,7 @@
 {
   "name": "nodesdr-sdr-controller",
   "version": "1.0.0",
-  "description": "NodeSDR SDR controller module for controlling local and remote software defined radio devices",
+  "description": "NodeSDR SDR controller service for controlling local and remote software defined radio devices",
   "main": "app.js",
   "directories": {
     "test": "test"
