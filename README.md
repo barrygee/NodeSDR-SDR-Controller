@@ -1,4 +1,4 @@
-# Project: NodeSDR - SDR Controller Module
+# Project: NodeSDR - SDR Controller Service
 
 <strong>Status:</strong> In development
 
@@ -8,8 +8,7 @@
 
 ## Overview
 
-This module provides command and control functionality to local and remote software define radio devices within the <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a> application.
-The module is automatically imported when the <a href="https://github.com/barrygee/NodeSDR/blob/main/setup.sh">setup.sh</a> file is run within that project. 
+This service provides command and control functionality to local and remote software define radio devices within the <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a> application.
 
 <br>
 
